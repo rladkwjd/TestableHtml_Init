@@ -1,6 +1,5 @@
 package com.cleancode.fitnesse.testablehtml;
 
-import fitnesse.responders.run.SuiteResponder;
 import fitnesse.wiki.*;
 
 public class TestableHtml {
